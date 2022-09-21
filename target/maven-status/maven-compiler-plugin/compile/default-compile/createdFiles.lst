@@ -1,0 +1,8 @@
+apoorvrastogitraining\pageobjects\ReceiptPage.class
+apoorvrastogitraining\pageobjects\PaymentPage.class
+apoorvrastogitraining\pageobjects\ProductCatalogPage.class
+apoorvrastogitraining\pageobjects\LandingPage.class
+apoorvrastogitraining\AbstractComponents\AbstractComponents.class
+apoorvrastogitraining\pageobjects\OrderPage.class
+apoorvrastogitraining\pageobjects\CartPage.class
+apoorvrastogitraining\resources\ExtentReporterNG.class
